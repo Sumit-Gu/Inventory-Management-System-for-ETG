@@ -21,3 +21,6 @@ Inventory Management System based on JSON file handling, built using Python as p
 * Displays the bill and Update the inventory. 
 * Saves the Sales record into a Text file. 
 * Admin panel with login Feature to Manage inventory (Add/modify/delete products) 
+
+ ### Credits
+**©** @Sumit-Gu :octocat: | 2021 | [GitHub](https://github.com/Sumit-Gu/)
