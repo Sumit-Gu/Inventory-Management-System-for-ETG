@@ -23,4 +23,4 @@ Inventory Management System based on JSON file handling, built using Python as p
 * Admin panel with login Feature to Manage inventory (Add/modify/delete products) 
 
  ### Credits
-**©** @Sumit-Gu :octocat: | 2021 | [GitHub](https://github.com/Sumit-Gu/)
+**©** @Sumit-Gu :rocket: | 2021 | [GitHub](https://github.com/Sumit-Gu/)
